@@ -9,7 +9,7 @@
 <version>2.1.8.RELEASE</version>
 <relativePath/> <!-- lookup parent from repository -->
 </parent>
-<groupId>com.javatpoint</groupId>
+<groupId>com.sekhar</groupId>
 <artifactId>restful-web-services</artifactId>
 <version>0.0.1-SNAPSHOT</version>
 <name>restful-web-services</name>
